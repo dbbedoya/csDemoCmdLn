@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dbedoya/dev/csharp/vsDemoCmdLn/vsDemoCmdLn/vsDemoCmdLn.csproj": {}
+  },
+  "projects": {
+    "/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/ServiceLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/ServiceLibrary.csproj",
+        "projectName": "ServiceLibrary",
+        "projectPath": "/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/ServiceLibrary.csproj",
+        "packagesPath": "/Users/dbedoya/.nuget/packages/",
+        "outputPath": "/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dbedoya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dbedoya/dev/csharp/vsDemoCmdLn/vsDemoCmdLn/vsDemoCmdLn.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dbedoya/dev/csharp/vsDemoCmdLn/vsDemoCmdLn/vsDemoCmdLn.csproj",
+        "projectName": "vsDemoCmdLn",
+        "projectPath": "/Users/dbedoya/dev/csharp/vsDemoCmdLn/vsDemoCmdLn/vsDemoCmdLn.csproj",
+        "packagesPath": "/Users/dbedoya/.nuget/packages/",
+        "outputPath": "/Users/dbedoya/dev/csharp/vsDemoCmdLn/vsDemoCmdLn/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dbedoya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/ServiceLibrary.csproj": {
+                "projectPath": "/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/ServiceLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

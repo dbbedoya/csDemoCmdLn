@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhgVejXjKB8POMoZlwWatQtU3x/5Y3oz4qapkBaSyNHYHnNiyoQna6zlZtz9gz3OwMUsQH1+AJT01MOAoQc5Lg==",
+  "success": true,
+  "projectFilePath": "/Users/dbedoya/dev/csharp/vsDemoCmdLn/vsDemoCmdLn/vsDemoCmdLn.csproj",
+  "expectedPackageFiles": [
+    "/Users/dbedoya/.nuget/packages/npgsql/5.0.3/npgsql.5.0.3.nupkg.sha512",
+    "/Users/dbedoya/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

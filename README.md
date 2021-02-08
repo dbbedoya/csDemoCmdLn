@@ -32,3 +32,5 @@ create index createfileidx on balances
 (createtime, filename);
 ```
 
+I had to rename the folders before commit from vsDemoCmdLn to csDemoCmdLn.  Git did not want to upload the files inside the folder.  When I renamed it, it worked.
+

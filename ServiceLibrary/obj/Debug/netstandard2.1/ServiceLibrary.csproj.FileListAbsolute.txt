@@ -1,0 +1,9 @@
+/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/bin/Debug/netstandard2.1/ServiceLibrary.deps.json
+/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/bin/Debug/netstandard2.1/ServiceLibrary.dll
+/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/bin/Debug/netstandard2.1/ServiceLibrary.pdb
+/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/obj/Debug/netstandard2.1/ServiceLibrary.csprojAssemblyReference.cache
+/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/obj/Debug/netstandard2.1/ServiceLibrary.AssemblyInfoInputs.cache
+/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/obj/Debug/netstandard2.1/ServiceLibrary.AssemblyInfo.cs
+/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/obj/Debug/netstandard2.1/ServiceLibrary.csproj.CoreCompileInputs.cache
+/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/obj/Debug/netstandard2.1/ServiceLibrary.dll
+/Users/dbedoya/dev/csharp/vsDemoCmdLn/ServiceLibrary/obj/Debug/netstandard2.1/ServiceLibrary.pdb
